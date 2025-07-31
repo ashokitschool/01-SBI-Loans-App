@@ -1,5 +1,3 @@
-String name = "ashok it";
-
 good mrng...
 
 how are you ?
